@@ -1,6 +1,6 @@
 LiterAlura: Catálogo de Libros
 
-Este proyecto es un desafío de programación que consiste en construir un catálogo de libros, llamado LiterAlura, donde podrás realizar búsquedas y consultas de libros utilizando la API de Gutendex. Aprenderás a manejar datos en formato JSON, almacenarlos en una base de datos PostgreSQL, y ofrecer una interfaz de interacción a través de la consola.
+Este proyecto es un desafío de programación que consiste en construir un catálogo de libros, llamado LiterAlura (App_literatura), donde se realizan búsquedas y consultas de libros utilizando la API de Gutendex, se manejan datos en formato JSON, se almacenanan en una base de datos PostgreSQL, y se ofrece una interfaz de interacción a través de la consola.
 
 🚀 Objetivo del Proyecto
 El objetivo principal es desarrollar un catálogo de libros con interacción textual (vía consola), que permita a los usuarios buscar libros y autores, así como realizar diversas consultas y filtrados de los datos almacenados. El proyecto debe ofrecer al menos 5 opciones de interacción para los usuarios.
@@ -29,6 +29,7 @@ Exhibición de Resultados a los Usuarios:
 
 Implementación de un menú de interacción textual utilizando CommandLineRunner y una clase principal Principal.
 Funcionalidades como búsqueda de libros, listado de autores, filtrado por género, y otras consultas específicas.
+
 🛠️ Tecnologías Utilizadas
 Java (JDK 17)
 Spring Boot (versión 3.0 o superior)
@@ -38,7 +39,6 @@ IntelliJ IDEA (IDE)
 Maven (Gestor de dependencias)
 📦 Instalación y Configuración
 Clona este repositorio:
-
 
 📖 Funcionalidades
 El proyecto ofrece las siguientes opciones de interacción:
@@ -50,7 +50,6 @@ Top 10 de libros por descargas.
 
 🌐 API Utilizada
 El proyecto consume datos de la API de Gutendex, una API pública de libros de dominio público. Para más información, consulta la documentación de Gutendex.
-
 
 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
