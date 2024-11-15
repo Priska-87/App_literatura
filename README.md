@@ -1,4 +1,5 @@
 LiterAlura: Catálogo de Libros
+
 Este proyecto es un desafío de programación que consiste en construir un catálogo de libros, llamado LiterAlura, donde podrás realizar búsquedas y consultas de libros utilizando la API de Gutendex. Aprenderás a manejar datos en formato JSON, almacenarlos en una base de datos PostgreSQL, y ofrecer una interfaz de interacción a través de la consola.
 
 🚀 Objetivo del Proyecto
