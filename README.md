@@ -41,10 +41,6 @@ PostgreSQL (Base de datos)
 IntelliJ IDEA (IDE)
 Maven (Gestor de dependencias)
 
-📦 Instalación y Configuración
-
-Clona este repositorio:
-
 📖 Funcionalidades
 
 El proyecto ofrece las siguientes opciones de interacción:
